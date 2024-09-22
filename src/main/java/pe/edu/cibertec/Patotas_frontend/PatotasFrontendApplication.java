@@ -10,4 +10,5 @@ public class PatotasFrontendApplication {
 		SpringApplication.run(PatotasFrontendApplication.class, args);
 	}
 
+
 }
